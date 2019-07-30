@@ -1,0 +1,17 @@
+{
+    "name": "liaoke\/unit-laravel",
+    "description": "A simplified version of the laravel framework unit test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "廖柯",
+            "email": "2640008786@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Liaoke\\UnitLaravel\\": "src"
+        }
+    }
+}
